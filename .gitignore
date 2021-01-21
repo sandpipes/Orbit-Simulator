@@ -1,0 +1,14 @@
+*.class
+*.jar
+
+.idea
+.DS_Store
+
+.gradle
+/build/
+gradle-app.setting
+.gradletasknamecache
+!gradle-wrapper.jar
+
+Capture.PNG
+documentation.pdf
